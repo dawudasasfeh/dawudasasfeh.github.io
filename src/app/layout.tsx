@@ -23,6 +23,13 @@ export const metadata: Metadata = {
     "Jordan",
   ],
   authors: [{ name: "Dawud Salameh AlAsasfeh" }],
+  icons: {
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/favicon.png", type: "image/png" },
+    ],
+    apple: "/favicon.png",
+  },
   openGraph: {
     title: "Dawud AlAsasfeh — Software Engineer",
     description:
