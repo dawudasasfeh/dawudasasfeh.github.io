@@ -125,7 +125,7 @@ export const PROJECTS = [
     title: "Social Links Profile",
     description:
       "A clean, responsive social links page built as a Frontend Mentor challenge.",
-    tech: ["HTML", "CSS", "JavaScript"],
+    tech: ["HTML", "CSS"],
     role: "Front-End Developer",
     link: "https://dawudasasfeh.github.io/Social-links-profile/",
     featured: false,
@@ -145,7 +145,7 @@ export const PROJECTS = [
     title: "Blog Preview Card",
     description:
       "A modern blog card component with hover animations and clean typography.",
-    tech: ["HTML", "CSS", "JavaScript"],
+    tech: ["HTML", "CSS"],
     role: "Front-End Developer",
     link: "https://dawudasasfeh.github.io/Blog-preview-card/",
     featured: false,
