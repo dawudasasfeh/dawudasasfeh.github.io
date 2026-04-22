@@ -166,10 +166,10 @@ export const PROJECTS = [
 export const EXPERIENCE = [
   {
     title: "University Internship",
-    company: "University of Jordan — Computer Center",
+    company: "University of Jordan — Computer Center - Network and Infrastructure Department",
     duration: "July 2025 – September 2025",
     details:
-      "Completed required university training, gaining hands-on experience working in a professional IT and computer center environment.",
+      "Gained practical experience in managing enterprise IT infrastructure. Observed and assisted in the maintenance of the university's campus-wide network systems and wireless solutions, bridging the gap between academic theory and real-world technical application.",
   },
 ] as const;
 
