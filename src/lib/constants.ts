@@ -161,6 +161,16 @@ export const PROJECTS = [
     featured: false,
     gradient: "from-teal-500/20 to-green-500/20",
   },
+  {
+    title: "Intro component with sign-up form ",
+    description:
+      "An interactive sign-up form with validation built as a Frontend Mentor challenge.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    role: "Front-End Developer",
+    link: "https://dawudasasfeh.github.io/Intro-component-with-sign-up-form/",
+    featured: false,
+    gradient: "from-teal-500/20 to-green-500/20",
+  },
 ] as const;
 
 export const EXPERIENCE = [
@@ -190,6 +200,11 @@ export const CERTIFICATES = [
     title: "Practical Prompt Engineering",
     issuer: "Sabrina Goldfarb",
     pdf: "/certs/prompt-engineering.pdf",
+  },
+  {
+    title: "Getting Started with JavaScript, v3",
+    issuer: "Web Dev Simplified",
+    pdf: "/certs/intro-js.pdf",
   },
 ] as const;
 
